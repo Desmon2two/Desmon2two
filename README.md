@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, i'm Alexander!
+Full-Stack Developer | JavaScript / TypeScript | Node.js | React | MongoDB
 
-<!--
-**Desmon2two/Desmon2two** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught software developer focused on building real-world full-stack applications and developing the engineering judgment behind them.
 
-Here are some ideas to get you started:
+Rather than treating development as simply making features work, I care about understanding why systems are designed the way they are, how their parts interact, where they can fail, and how to keep changes maintainable as the application grows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building a YouTube-like video streaming application while deepening my skills across the full stack — from database and API design to authentication, frontend architecture, deployment, and production engineering practices.
+
+🚀 What I'm Building
+🎬 Full-Stack Video Streaming Application
+
+My main project is a MERN stack video platform built from the ground up.
+
+Frontend:
+
+- React
+- Vite
+- TypeScript
+- React Router
+- CSS with BEM naming convention
+
+Backend:
+
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- JWT-based authentication with Cookies
+- Validation and centralized error handling
