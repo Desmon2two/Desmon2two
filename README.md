@@ -7,10 +7,6 @@ Rather than treating development as simply making features work, I care about un
 
 Currently, I'm building a YouTube-like video streaming application while deepening my skills across the full stack — from database and API design to authentication, frontend architecture, deployment, and production engineering practices.
 
-🚀 What I'm Building
-
-🎬 Full-Stack Video Streaming Application
-
 My main project is a MERN stack video platform built from the ground up.
 
 Frontend:
